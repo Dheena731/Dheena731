@@ -12,4 +12,4 @@
 
 "🌟 Innovation fuels my soul. Join me on this coding journey, and together, we'll turn ideas into reality."
 
-"💬 Have a question or just want to chat tech? Reach out to me at www.dhina555@gmail.com. Let's start a conversation."
+"💬 Have a question or just want to chat tech? Reach out to me through instagram here is my instagram id iamkaran731 . Let's start a conversation."
