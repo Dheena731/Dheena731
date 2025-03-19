@@ -25,14 +25,14 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Dhinakaran2004&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhinakaran2004&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhinakaran2004&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats-liard-six.vercel.app?user=Dheena731&theme=dark&border_radius=10)](https://git.io/streak-stats)
+![dheena731's Stats](https://github-readme-stats.vercel.app/api?username=dheena731&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![dheena731's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheena731&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Dhinakaran2004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhinakaran-thangaraj-a2a05a230/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dhinakaran2004)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
@@ -41,8 +41,7 @@
 ### 💡 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - 🚀 [How to Deploy YOLOv8 with Gradio](#)
-- 🔥 [DeepRacer RL: From Simulation to Physical Track](#)
-- 🎯 [Building an IoT Dashboard with Jetson Nano & MQTT](#)
+- 🔥 [Pytorch vs Tensorflow](https://www.linkedin.com/pulse/tensorflow-pytorch-dhinakaran-thangaraj-o0lmf/?trackingId=5U%2Fets%2BxLmQEXYTqGega1g%3D%3D)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -58,4 +57,3 @@
 
 ⭐ **Show some love!** If you like my work, give a ⭐ to my repositories!
 
-![Footer](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
