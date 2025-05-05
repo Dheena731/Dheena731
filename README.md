@@ -23,7 +23,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
-![dheena731's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dheena731&theme=vue-dark&hide_border=true)
 ### 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats-liard-six.vercel.app?user=Dheena731&theme=dark&border_radius=10)](https://git.io/streak-stats)
 ![dheena731's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dheena731&theme=vue-dark&hide_border=true)
