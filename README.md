@@ -24,7 +24,7 @@
 
 ---
 ### 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats-liard-six.vercel.app?user=Dheena731&theme=dark&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dheena731)](https://git.io/streak-stats)
 ![dheena731's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dheena731&theme=vue-dark&hide_border=true)
 ![dheena731's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheena731&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
