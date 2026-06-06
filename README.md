@@ -13,8 +13,8 @@
   <a href="https://www.linkedin.com/in/dhinakaran-thangaraj-a2a05a230/">
     <img src="https://img.shields.io/badge/LinkedIn-Dhinakaran-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/Dhinakaran2004">
-    <img src="https://img.shields.io/badge/Twitter-Dhinakaran2004-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://x.com/Dhinakaran731">
+    <img src="https://img.shields.io/badge/Twitter-Dhinakaran731-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <br/>
   <br/>
