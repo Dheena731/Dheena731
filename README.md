@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Dheena731">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2200&pause=500&multiline=true&width=620&height=90&lines=Dhinakaran+Thangaraj;Python+Developer+%7C+AI+Tooling+Builder;LLMs+%7C+FastAPI+%7C+ML+Infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2200&pause=500&multiline=true&width=620&height=90&lines=Dhinakaran+Thangaraj;AI+Engineer+%7C+AI+Tooling+Builder;LLMs+%7C+FastAPI+%7C+ML+Infrastructure" alt="Typing SVG" />
   </a>
   <br/>
 
